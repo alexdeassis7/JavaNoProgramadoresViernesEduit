@@ -2,8 +2,11 @@
 saber cuanto dinero ganara despues de un mes si el banco paga a razon de 2% mensual
  */
 package clase2viernesproblemassecuenciales;
-import java.util.Scanner;
+
 //import javax.swing.JOptionPane;
+
+import java.util.Scanner;
+
 public class Clase2ViernesProblemasSecuenciales {
     public static void main(String[] args) {
         //definimos las variables de trabajo 
@@ -22,11 +25,7 @@ public class Clase2ViernesProblemasSecuenciales {
         //mostramos los resultados         
         System.out.println("usted invirtio $" + capital + " su ganancia en 30 dias fue de $" + ganancia);       
         
-        
-        
-        
-        
-        
+     
     }
     
 }
